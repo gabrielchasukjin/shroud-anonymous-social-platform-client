@@ -1,4 +1,4 @@
-# Shourd -- an anonymous social chatting platform
+# Shourd -- Anonymous Social Chatting Platform
 
 #### Have a high blood pressure inducing issue you need to rant on about? Here's a safe place to do exactly that. Your identity is anonymous, but your thoughts are can be free. Go ahead and share what's suppresed and embrace the freedom!
 
