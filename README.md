@@ -3,6 +3,7 @@
 #### Have a high blood pressure inducing issue you need to rant on about? Here's a safe place to do exactly that. Your identity is anonymous, but your thoughts are can be free. Go ahead and share what's suppresed and embrace the freedom!
 
 ## The purpose of this project is to learn and practice concepts related to:
+> - Fullstack application server/client
 > - React.js Hooks (State/Effect)
 > - JSX, components, props, css modules, etc.
 > - Building a REST API
@@ -10,6 +11,12 @@
 > - Testing API Endpoints (Postman)
 > - mySQL Server Express
 > - One-to-Many Associations
+
+## Backend Server
+Repo:https://github.com/gabrielchasukjin/shroud-anonymous-social-platform-server
+> - Node.js
+> - Router Endpoints (URIs)
+> - Sequelize Object Relational Mapper 
 
 ### Application Demo:
 https://user-images.githubusercontent.com/95925660/186961842-1b73900f-f20b-4b43-85ad-97a5fc644c8b.mov
