@@ -17,6 +17,7 @@ Repo:https://github.com/gabrielchasukjin/shroud-anonymous-social-platform-server
 > - Node.js
 > - Router Endpoints (URIs)
 > - Sequelize Object Relational Mapper 
+
 ** Note: in process of deploying website using Heroku and Netlify **
 
 ### Application Demo:
